@@ -75,7 +75,7 @@
                     </execution>
                 </executions>
             </plugin>
-            <!-- CODE COVERAGE test cases -->
+            <!-- CODE COVERAGE test cases check -->
             <plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
